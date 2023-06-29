@@ -1,1 +1,1 @@
-# neural
+Simple idea of Neural network
